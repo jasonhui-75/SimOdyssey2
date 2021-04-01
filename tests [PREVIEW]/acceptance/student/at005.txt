@@ -1,0 +1,16 @@
+test(10,15,30,45,60)
+land
+pass
+pass
+pass
+move(S)
+move(E)
+move(NE)
+land
+pass
+liftoff
+pass
+status
+pass
+move(E)
+move(W)

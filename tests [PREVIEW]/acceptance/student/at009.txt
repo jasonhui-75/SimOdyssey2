@@ -1,0 +1,19 @@
+test(10,30, 50, 65, 80)
+move(E)
+pass
+pass
+pass
+pass
+move(S)
+move(W)
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+land

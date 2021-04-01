@@ -1,0 +1,17 @@
+abort
+abort
+abort
+abort
+play
+play
+abort
+play
+pass
+pass
+pass
+pass
+move(S)
+pass
+pass
+move(SE)
+move(S)

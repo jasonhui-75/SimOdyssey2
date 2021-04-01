@@ -1,0 +1,9 @@
+test(3,5,7,15,30)
+move (E)
+land
+pass
+move(SE)
+wormhole
+move(W)
+move(W)
+wormhole

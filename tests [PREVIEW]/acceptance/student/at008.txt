@@ -1,0 +1,25 @@
+test(50, 75, 80, 83, 90)
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+move(S)
+move(SW)
+move(NE)
+pass
+pass
+pass
+pass
+pass
+pass
+pass
